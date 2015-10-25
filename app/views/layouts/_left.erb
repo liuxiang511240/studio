@@ -1,0 +1,11 @@
+<ul>
+  <li class="<%= controller_name=='home' ? 'select' : '' -%>">
+    <%= link_to '首页', {controller: 'home'} -%>
+  </li>
+  <li class="<%= controller_name=='products' ? 'select' : '' -%>">
+    <%= link_to '产品', {controller: 'products'} -%>
+  </li>
+  <li class="<%= controller_name=='projects' ? 'select' : '' -%>">
+    <%= link_to '案例', {controller: 'projects'} -%>
+  </li>
+</ul>
