@@ -131,7 +131,7 @@ table th {
     background-color: #eeeeee;
 }
 
-.inner {
+.wrap {
     background: #fff;
     -moz-border-radius: 3px;
     -webkit-border-radius: 3px;
@@ -140,21 +140,17 @@ table th {
     -webkit-box-shadow: 0px 0px 8px #999;
     box-shadow: 0px 0px 8px #999;
 }
-
+.wrap img{
+    width: 1000px;
+    max-height: 2000px;
+}
 #footer {
     padding: 10px;
     text-align: center;
 }
 
 #header {
-    background-color: #8ccc2f;
-    margin: 10px 0;
-    font-size: 22px;
-    height: 50px;
-    line-height: 50px;
-    vertical-align: middle;
-    font-weight: bold;
-    text-align: center;
+    margin: 5px 0;
     -moz-border-radius: 3px;
     -webkit-border-radius: 3px;
     border-radius: 3px;
@@ -163,40 +159,23 @@ table th {
     box-shadow: 0px 0px 8px #999;
 }
 
-.sidebar {
-    float: left;
-    width: 200px;
-    height: auto;
-    background-color: #8ccc2f;
-    -moz-border-radius: 3px;
-    -webkit-border-radius: 3px;
-    border-radius: 3px;
-    -moz-box-shadow: 0px 0px 8px #999;
-    -webkit-box-shadow: 0px 0px 8px #999;
-    box-shadow: 0px 0px 8px #999;
-}
-
-.content {
-    float: left;
-    width: 730px;
-    margin: 15px;
-}
-
-.content p {
-    line-height: 22px;
-}
-
-.sidebar li {
-    line-height: 50px;
-    height: 50px;
+#header li {
+    line-height: 30px;
+    height: 30px;
     vertical-align: middle;
     padding: 10px 20px;
     text-align: left;
     font-size: 18px;
     font-weight: bold;
+    float: left;
 }
 
-.sidebar .select {
+#header .logo img {
+    height: 100px;
+    width: 1000px;
+}
+
+#header .select {
     background-color: #39bb5c;
 }
 

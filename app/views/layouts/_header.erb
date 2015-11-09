@@ -1,3 +1,28 @@
-<div id="header">
-  工作室
+<div id="header" class="clearfix">
+  <div class="logo">
+    <img src="/images/logo.jpg" alt="">
+  </div>
+  <ul>
+    <li class="<%= controller_name=='home' ? 'select' : '' -%>">
+      <%= link_to 'HOME', {controller: 'home'} -%>
+    </li>
+    <li class="<%= controller_name=='collections' ? 'select' : '' -%>">
+          <%= link_to 'COLLECTIONS', {controller: 'collections'} -%>
+    </li>
+    <li class="<%= controller_name=='projects' ? 'select' : '' -%>">
+      <%= link_to 'PROJECTS', {controller: 'projects'} -%>
+    </li>
+    <li class="<%= controller_name=='illustration' ? 'select' : '' -%>">
+      <%= link_to 'ILLUSTRATION', {controller: 'illustration'} -%>
+    </li>
+    <li class="<%= controller_name=='biography' ? 'select' : '' -%>">
+      <%= link_to 'BIOGRAPHY', {controller: 'biography'} -%>
+    </li>
+    <li class="<%= controller_name=='contacts' ? 'select' : '' -%>">
+      <%= link_to 'CONTACT', {controller: 'contacts'} -%>
+    </li>
+    <li class="<%= controller_name=='links' ? 'select' : '' -%>">
+      <%= link_to 'LINK', {controller: 'links'} -%>
+    </li>
+  </ul>
 </div>

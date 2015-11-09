@@ -15,7 +15,19 @@ Zxwang::Application.routes.draw do
   #   resources :products
 
   # Example resource route with options:
-  resources :products do
+  resources :collections do
+
+  end
+  resources :illustration do
+
+  end
+  resources :contacts do
+
+  end
+  resources :links do
+
+  end
+  resources :biography do
 
   end
   resources :projects do
