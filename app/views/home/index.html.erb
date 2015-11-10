@@ -1,1 +1,9 @@
-<img src="/images/index1.jpg" alt="">
+<div class="swiper-container">
+  <% (1..8).each do |i| %>
+      <div class="swiper-slide">
+        <img src="/images/<%= "index#{i}.jpg" -%>" alt="">
+      </div>
+  <% end %>
+</div>
+<div class="sprite icon-left"></div>
+<div class="sprite icon-right"></div>

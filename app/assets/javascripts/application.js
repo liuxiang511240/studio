@@ -14,3 +14,10 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
+
+$('.swiper-container').swiper({
+    slidesPerView: 2,
+    spaceBetween: 20,
+    prevButton: $('.wrap .icon-left'),
+    nextButton: $('.wrap .icon-right')
+});
