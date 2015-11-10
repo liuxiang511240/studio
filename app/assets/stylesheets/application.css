@@ -102,11 +102,11 @@ mark {
 /* = body==============================================*/
 a {
     text-decoration: none;
-    color: #333;
+    color: #999;
 }
 
 a:hover {
-    color: #e7290e;
+    color: #333;
 }
 
 body {
@@ -184,7 +184,7 @@ table th {
 }
 
 #header .select a {
-    color: red;
+    color: #333;
 }
 
 .pagin, .pagin2 {
