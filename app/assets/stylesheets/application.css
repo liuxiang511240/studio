@@ -102,7 +102,7 @@ mark {
 /* = body==============================================*/
 a {
     text-decoration: none;
-    color: #2151bb;
+    color: #333;
 }
 
 a:hover {
@@ -110,7 +110,7 @@ a:hover {
 }
 
 body {
-    font: 14px "微軟正黑體", Verdana, Lucida, Helvetica, Arial, sans-serif;
+    font: 14px "TrajanPro-Regular", Verdana, Lucida, Helvetica, Arial, sans-serif;
     color: #333;
 }
 
@@ -141,7 +141,7 @@ table th {
     box-shadow: 0px 0px 8px #999;
 }
 .wrap img{
-    width: 1000px;
+    max-width: 1000px;
     max-height: 2000px;
 }
 #footer {
@@ -151,25 +151,21 @@ table th {
 
 #header {
     margin: 5px 0;
-    -moz-border-radius: 3px;
-    -webkit-border-radius: 3px;
-    border-radius: 3px;
-    -moz-box-shadow: 0px 0px 8px #999;
-    -webkit-box-shadow: 0px 0px 8px #999;
-    box-shadow: 0px 0px 8px #999;
 }
 
 #header li {
     line-height: 30px;
     height: 30px;
     vertical-align: middle;
-    padding: 10px 20px;
+    padding: 5px 10px;
     text-align: left;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: bold;
     float: left;
 }
-
+#header .logo {
+    border-bottom: 1px solid #333;
+}
 #header .logo img {
     height: 100px;
     width: 1000px;
