@@ -1,1 +1,36 @@
-<img src="/images/index1.jpg" alt="">
+<div id="fsD1" class="focus">
+  <div id="D1pic1" class="fPic">
+    <% (1..8).each do |i| %>
+        <div class="fcon" style="display: none;">
+          <img src="/images/<%= "index#{i}.jpg" -%>" alt="" style="opacity: 1;">
+        </div>
+    <% end %>
+  </div>
+  <div class="fbg">
+    <div class="D1fBt" id="D1fBt">
+      <% (1..8).each do |i| %>
+          <a href="javascript:void(0)" hidefocus="true" target="_self" class="<%= i==1 ? 'current' : '' -%>"><i><%= i -%></i></a>
+      <% end %>
+    </div>
+  </div>
+  <span class="prev"></span>
+  <span class="next"></span>
+</div>
+<script type="text/javascript">
+    Qfast.add('widgets', { path: "js/terminator2.2.min.js", type: "js", requires: ['fx'] });
+    Qfast(false, 'widgets', function () {
+        K.tabs({
+            id: 'fsD1',   //焦点图包裹id
+            conId: "D1pic1",  //** 大图域包裹id
+            tabId:"D1fBt",
+            tabTn:"a",
+            conCn: '.fcon', //** 大图域配置class
+            auto: 1,   //自动播放 1或0
+            effect: 'fade',   //效果配置
+            eType: 'click', //** 鼠标事件
+            pageBt:true,//是否有按钮切换页码
+            bns: ['.prev', '.next'],//** 前后按钮配置class
+            interval: 3000  //** 停顿时间
+        })
+    })
+</script>

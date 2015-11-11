@@ -6933,3 +6933,480 @@ Started GET "/assets/jquery-1.8.3.min.js" for 127.0.0.1 at 2015-11-11 18:22:11 +
 
 
 Started GET "/assets/koala.min.1.5.js" for 127.0.0.1 at 2015-11-11 18:22:11 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-11 18:25:08 +0800
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_header.erb (0.9ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 16ms (Views: 15.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css" for 127.0.0.1 at 2015-11-11 18:25:08 +0800
+
+
+Started GET "/assets/application.js" for 127.0.0.1 at 2015-11-11 18:25:08 +0800
+
+
+Started GET "/assets/datouwang.css" for 127.0.0.1 at 2015-11-11 18:25:08 +0800
+
+
+Started GET "/assets/jquery-1.8.3.min.js" for 127.0.0.1 at 2015-11-11 18:25:08 +0800
+
+
+Started GET "/assets/koala.min.1.5.js" for 127.0.0.1 at 2015-11-11 18:25:08 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-11 18:25:16 +0800
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_header.erb (0.8ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css" for 127.0.0.1 at 2015-11-11 18:25:16 +0800
+
+
+Started GET "/assets/application.js" for 127.0.0.1 at 2015-11-11 18:25:16 +0800
+
+
+Started GET "/assets/datouwang.css" for 127.0.0.1 at 2015-11-11 18:25:16 +0800
+
+
+Started GET "/assets/jquery-1.8.3.min.js" for 127.0.0.1 at 2015-11-11 18:25:16 +0800
+
+
+Started GET "/assets/koala.min.1.5.js" for 127.0.0.1 at 2015-11-11 18:25:16 +0800
+
+
+Started GET "/collections" for 127.0.0.1 at 2015-11-11 18:25:20 +0800
+Processing by CollectionsController#index as HTML
+  Rendered collections/index.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_header.erb (1.4ms)
+  Rendered layouts/_footer.erb (0.2ms)
+Completed 200 OK in 8ms (Views: 6.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/projects" for 127.0.0.1 at 2015-11-11 18:25:21 +0800
+Processing by ProjectsController#index as HTML
+  Rendered projects/index.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_header.erb (1.1ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/illustration" for 127.0.0.1 at 2015-11-11 18:25:22 +0800
+Processing by IllustrationController#index as HTML
+  Rendered illustration/index.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_header.erb (1.0ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/biography" for 127.0.0.1 at 2015-11-11 18:25:23 +0800
+Processing by BiographyController#index as HTML
+  Rendered biography/index.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_header.erb (1.0ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 25ms (Views: 24.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts" for 127.0.0.1 at 2015-11-11 18:25:23 +0800
+Processing by ContactsController#index as HTML
+  Rendered contacts/index.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_header.erb (1.0ms)
+  Rendered layouts/_footer.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 5.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/links" for 127.0.0.1 at 2015-11-11 18:25:24 +0800
+Processing by LinksController#index as HTML
+  Rendered links/index.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_header.erb (1.0ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-11 18:25:25 +0800
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_header.erb (0.8ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/collections" for 127.0.0.1 at 2015-11-11 18:25:27 +0800
+Processing by CollectionsController#index as HTML
+  Rendered collections/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (0.8ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/projects" for 127.0.0.1 at 2015-11-11 18:25:28 +0800
+Processing by ProjectsController#index as HTML
+  Rendered projects/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (0.9ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 25ms (Views: 24.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/collections" for 127.0.0.1 at 2015-11-11 18:25:28 +0800
+Processing by CollectionsController#index as HTML
+  Rendered collections/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (0.9ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-11 18:25:29 +0800
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_header.erb (1.0ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/collections" for 127.0.0.1 at 2015-11-11 18:25:29 +0800
+Processing by CollectionsController#index as HTML
+  Rendered collections/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (1.1ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/projects" for 127.0.0.1 at 2015-11-11 18:25:29 +0800
+Processing by ProjectsController#index as HTML
+  Rendered projects/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (0.8ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/biography" for 127.0.0.1 at 2015-11-11 18:25:30 +0800
+Processing by BiographyController#index as HTML
+  Rendered biography/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (0.9ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/illustration" for 127.0.0.1 at 2015-11-11 18:25:30 +0800
+Processing by IllustrationController#index as HTML
+  Rendered illustration/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (0.8ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/biography" for 127.0.0.1 at 2015-11-11 18:25:31 +0800
+Processing by BiographyController#index as HTML
+  Rendered biography/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (0.9ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/links" for 127.0.0.1 at 2015-11-11 18:25:31 +0800
+Processing by LinksController#index as HTML
+  Rendered links/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (0.8ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts" for 127.0.0.1 at 2015-11-11 18:25:32 +0800
+Processing by ContactsController#index as HTML
+  Rendered contacts/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (0.8ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 24ms (Views: 24.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/links" for 127.0.0.1 at 2015-11-11 18:25:32 +0800
+Processing by LinksController#index as HTML
+  Rendered links/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (0.8ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts" for 127.0.0.1 at 2015-11-11 18:25:33 +0800
+Processing by ContactsController#index as HTML
+  Rendered contacts/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (1.0ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/biography" for 127.0.0.1 at 2015-11-11 18:25:33 +0800
+Processing by BiographyController#index as HTML
+  Rendered biography/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (0.8ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/illustration" for 127.0.0.1 at 2015-11-11 18:25:33 +0800
+Processing by IllustrationController#index as HTML
+  Rendered illustration/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (0.9ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/projects" for 127.0.0.1 at 2015-11-11 18:25:34 +0800
+Processing by ProjectsController#index as HTML
+  Rendered projects/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (0.8ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 25ms (Views: 24.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/collections" for 127.0.0.1 at 2015-11-11 18:25:34 +0800
+Processing by CollectionsController#index as HTML
+  Rendered collections/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (0.8ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-11 18:25:35 +0800
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_header.erb (0.8ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/links" for 127.0.0.1 at 2015-11-11 18:25:40 +0800
+Processing by LinksController#index as HTML
+  Rendered links/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (0.8ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts" for 127.0.0.1 at 2015-11-11 18:25:41 +0800
+Processing by ContactsController#index as HTML
+  Rendered contacts/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (0.8ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-11 18:25:42 +0800
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_header.erb (0.8ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 25ms (Views: 24.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/collections" for 127.0.0.1 at 2015-11-11 18:25:42 +0800
+Processing by CollectionsController#index as HTML
+  Rendered collections/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (0.8ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/collections" for 127.0.0.1 at 2015-11-11 18:25:42 +0800
+Processing by CollectionsController#index as HTML
+  Rendered collections/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (0.8ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/projects" for 127.0.0.1 at 2015-11-11 18:25:43 +0800
+Processing by ProjectsController#index as HTML
+  Rendered projects/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (0.8ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/illustration" for 127.0.0.1 at 2015-11-11 18:25:43 +0800
+Processing by IllustrationController#index as HTML
+  Rendered illustration/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (0.8ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/biography" for 127.0.0.1 at 2015-11-11 18:25:44 +0800
+Processing by BiographyController#index as HTML
+  Rendered biography/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (0.8ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 24ms (Views: 23.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts" for 127.0.0.1 at 2015-11-11 18:25:44 +0800
+Processing by ContactsController#index as HTML
+  Rendered contacts/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (0.8ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/links" for 127.0.0.1 at 2015-11-11 18:25:45 +0800
+Processing by LinksController#index as HTML
+  Rendered links/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (0.8ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts" for 127.0.0.1 at 2015-11-11 18:25:45 +0800
+Processing by ContactsController#index as HTML
+  Rendered contacts/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (0.8ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/biography" for 127.0.0.1 at 2015-11-11 18:25:46 +0800
+Processing by BiographyController#index as HTML
+  Rendered biography/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (0.8ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/illustration" for 127.0.0.1 at 2015-11-11 18:25:46 +0800
+Processing by IllustrationController#index as HTML
+  Rendered illustration/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (0.8ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 24ms (Views: 23.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/projects" for 127.0.0.1 at 2015-11-11 18:25:46 +0800
+Processing by ProjectsController#index as HTML
+  Rendered projects/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (0.9ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/collections" for 127.0.0.1 at 2015-11-11 18:25:47 +0800
+Processing by CollectionsController#index as HTML
+  Rendered collections/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (0.8ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-11 18:25:48 +0800
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_header.erb (0.8ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/collections" for 127.0.0.1 at 2015-11-11 18:25:49 +0800
+Processing by CollectionsController#index as HTML
+  Rendered collections/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (20.4ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 25ms (Views: 24.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-11 18:25:49 +0800
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_header.erb (0.8ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/collections" for 127.0.0.1 at 2015-11-11 18:25:50 +0800
+Processing by CollectionsController#index as HTML
+  Rendered collections/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (0.8ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-11 18:26:02 +0800
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_header.erb (0.7ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-11 18:26:59 +0800
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_header.erb (0.8ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css" for 127.0.0.1 at 2015-11-11 18:26:59 +0800
+
+
+Started GET "/assets/application.js" for 127.0.0.1 at 2015-11-11 18:26:59 +0800
+
+
+Started GET "/assets/datouwang.css" for 127.0.0.1 at 2015-11-11 18:26:59 +0800
+
+
+Started GET "/assets/jquery-1.8.3.min.js" for 127.0.0.1 at 2015-11-11 18:26:59 +0800
+
+
+Started GET "/assets/koala.min.1.5.js" for 127.0.0.1 at 2015-11-11 18:26:59 +0800
+
+
+Started GET "/collections" for 127.0.0.1 at 2015-11-11 18:27:01 +0800
+Processing by CollectionsController#index as HTML
+  Rendered collections/index.html.erb within layouts/application (0.7ms)
+  Rendered layouts/_header.erb (0.9ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/projects" for 127.0.0.1 at 2015-11-11 18:27:08 +0800
+Processing by ProjectsController#index as HTML
+  Rendered projects/index.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_header.erb (1.0ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 7ms (Views: 6.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/illustration" for 127.0.0.1 at 2015-11-11 18:27:11 +0800
+Processing by IllustrationController#index as HTML
+  Rendered illustration/index.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_header.erb (1.0ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 6ms (Views: 5.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/biography" for 127.0.0.1 at 2015-11-11 18:27:13 +0800
+Processing by BiographyController#index as HTML
+  Rendered biography/index.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_header.erb (0.8ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts" for 127.0.0.1 at 2015-11-11 18:27:15 +0800
+Processing by ContactsController#index as HTML
+  Rendered contacts/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (0.9ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 25ms (Views: 24.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/links" for 127.0.0.1 at 2015-11-11 18:27:16 +0800
+Processing by LinksController#index as HTML
+  Rendered links/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.erb (0.8ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms)
