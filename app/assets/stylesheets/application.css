@@ -134,7 +134,7 @@ table th {
 .wrap {
     background: #fff;
     width: 1000px;
-    margin-left: 50px;
+    margin:0 auto;
     -moz-border-radius: 3px;
     -webkit-border-radius: 3px;
     border-radius: 3px;
@@ -243,42 +243,4 @@ table th {
     padding: 2px 6px;
     color: #fff;
     font-weight: bold;
-}
-
-.swiper-container {
-    margin: 12px 40px 0;
-    width: 1000px;
-}
-
-.swiper-container .swiper-wrapper .swiper-slide {
-    width: 265px;
-    border-radius: 4px;
-    padding: 20px;
-}
-
-.icon-left, .icon-right {
-    position: absolute;
-    margin-top: -24px;
-    top: 50%;
-    cursor: pointer;
-    z-index: 10;
-}
-
-.swiper-button-disabled {
-    display: none;
-}
-
-.icon-left {
-    left: 0px;
-}
-
-.icon-right {
-    right: 0px;
-}
-
-.sprite {
-.size(10 px);
-.inline-block();
-    vertical-align: middle;
-    overflow: hidden;
 }
