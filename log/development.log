@@ -6720,3 +6720,216 @@ Processing by HomeController#index as HTML
   Rendered layouts/_header.erb (0.9ms)
   Rendered layouts/_footer.erb (0.0ms)
 Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-11 18:12:54 +0800
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (13.8ms)
+  Rendered layouts/_header.erb (2.1ms)
+  Rendered layouts/_footer.erb (0.3ms)
+Completed 200 OK in 413ms (Views: 403.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css" for 127.0.0.1 at 2015-11-11 18:12:55 +0800
+
+
+Started GET "/assets/application.js" for 127.0.0.1 at 2015-11-11 18:12:55 +0800
+
+
+Started GET "/assets/datouwang.css" for 127.0.0.1 at 2015-11-11 18:12:55 +0800
+
+
+Started GET "/assets/jquery-1.8.3.min.js" for 127.0.0.1 at 2015-11-11 18:12:55 +0800
+
+
+Started GET "/assets/koala.min.1.5.js" for 127.0.0.1 at 2015-11-11 18:12:55 +0800
+
+
+Started GET "/assets/application.css" for 127.0.0.1 at 2015-11-11 18:13:37 +0800
+
+
+Started GET "/assets/datouwang.css" for 127.0.0.1 at 2015-11-11 18:13:37 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-11 18:19:49 +0800
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_header.erb (1.1ms)
+  Rendered layouts/_footer.erb (0.1ms)
+Completed 200 OK in 220ms (Views: 218.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css" for 127.0.0.1 at 2015-11-11 18:19:50 +0800
+
+
+Started GET "/assets/application.js" for 127.0.0.1 at 2015-11-11 18:19:50 +0800
+
+
+Started GET "/assets/datouwang.css" for 127.0.0.1 at 2015-11-11 18:19:50 +0800
+
+
+Started GET "/assets/jquery-1.8.3.min.js" for 127.0.0.1 at 2015-11-11 18:19:50 +0800
+
+
+Started GET "/assets/koala.min.1.5.js" for 127.0.0.1 at 2015-11-11 18:19:50 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-11 18:20:24 +0800
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_header.erb (0.9ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 22ms (Views: 21.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css" for 127.0.0.1 at 2015-11-11 18:20:24 +0800
+
+
+Started GET "/assets/application.js" for 127.0.0.1 at 2015-11-11 18:20:24 +0800
+
+
+Started GET "/assets/datouwang.css" for 127.0.0.1 at 2015-11-11 18:20:24 +0800
+
+
+Started GET "/assets/jquery-1.8.3.min.js" for 127.0.0.1 at 2015-11-11 18:20:24 +0800
+
+
+Started GET "/assets/koala.min.1.5.js" for 127.0.0.1 at 2015-11-11 18:20:24 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-11 18:20:28 +0800
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_header.erb (0.8ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css" for 127.0.0.1 at 2015-11-11 18:20:28 +0800
+
+
+Started GET "/assets/application.js" for 127.0.0.1 at 2015-11-11 18:20:28 +0800
+
+
+Started GET "/assets/datouwang.css" for 127.0.0.1 at 2015-11-11 18:20:28 +0800
+
+
+Started GET "/assets/jquery-1.8.3.min.js" for 127.0.0.1 at 2015-11-11 18:20:28 +0800
+
+
+Started GET "/assets/koala.min.1.5.js" for 127.0.0.1 at 2015-11-11 18:20:28 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-11 18:20:31 +0800
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_header.erb (0.9ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css" for 127.0.0.1 at 2015-11-11 18:20:31 +0800
+
+
+Started GET "/assets/application.js" for 127.0.0.1 at 2015-11-11 18:20:31 +0800
+
+
+Started GET "/assets/datouwang.css" for 127.0.0.1 at 2015-11-11 18:20:31 +0800
+
+
+Started GET "/assets/jquery-1.8.3.min.js" for 127.0.0.1 at 2015-11-11 18:20:31 +0800
+
+
+Started GET "/assets/koala.min.1.5.js" for 127.0.0.1 at 2015-11-11 18:20:31 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-11 18:20:45 +0800
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_header.erb (0.7ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 36ms (Views: 35.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css" for 127.0.0.1 at 2015-11-11 18:20:45 +0800
+
+
+Started GET "/assets/application.js" for 127.0.0.1 at 2015-11-11 18:20:45 +0800
+
+
+Started GET "/assets/datouwang.css" for 127.0.0.1 at 2015-11-11 18:20:45 +0800
+
+
+Started GET "/assets/jquery-1.8.3.min.js" for 127.0.0.1 at 2015-11-11 18:20:45 +0800
+
+
+Started GET "/assets/koala.min.1.5.js" for 127.0.0.1 at 2015-11-11 18:20:45 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-11 18:21:01 +0800
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_header.erb (0.9ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 5ms (Views: 4.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css" for 127.0.0.1 at 2015-11-11 18:21:01 +0800
+
+
+Started GET "/assets/application.js" for 127.0.0.1 at 2015-11-11 18:21:01 +0800
+
+
+Started GET "/assets/datouwang.css" for 127.0.0.1 at 2015-11-11 18:21:01 +0800
+
+
+Started GET "/assets/jquery-1.8.3.min.js" for 127.0.0.1 at 2015-11-11 18:21:01 +0800
+
+
+Started GET "/assets/koala.min.1.5.js" for 127.0.0.1 at 2015-11-11 18:21:01 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-11 18:21:39 +0800
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_header.erb (0.7ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 45ms (Views: 44.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css" for 127.0.0.1 at 2015-11-11 18:21:40 +0800
+
+
+Started GET "/assets/application.js" for 127.0.0.1 at 2015-11-11 18:21:40 +0800
+
+
+Started GET "/assets/datouwang.css" for 127.0.0.1 at 2015-11-11 18:21:40 +0800
+
+
+Started GET "/assets/jquery-1.8.3.min.js" for 127.0.0.1 at 2015-11-11 18:21:40 +0800
+
+
+Started GET "/assets/koala.min.1.5.js" for 127.0.0.1 at 2015-11-11 18:21:40 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-11 18:22:11 +0800
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_header.erb (0.9ms)
+  Rendered layouts/_footer.erb (0.0ms)
+Completed 200 OK in 18ms (Views: 17.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css" for 127.0.0.1 at 2015-11-11 18:22:11 +0800
+
+
+Started GET "/assets/application.js" for 127.0.0.1 at 2015-11-11 18:22:11 +0800
+
+
+Started GET "/assets/datouwang.css" for 127.0.0.1 at 2015-11-11 18:22:11 +0800
+
+
+Started GET "/assets/jquery-1.8.3.min.js" for 127.0.0.1 at 2015-11-11 18:22:11 +0800
+
+
+Started GET "/assets/koala.min.1.5.js" for 127.0.0.1 at 2015-11-11 18:22:11 +0800

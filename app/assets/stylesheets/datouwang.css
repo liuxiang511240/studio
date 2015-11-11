@@ -14,10 +14,10 @@ filter:progid:DXImageTransform.Microsoft.gradient( GradientType = 0,startColorst
 .focus .shadow a{ text-decoration:none; color:#fff; font-size:20px; overflow:hidden; margin-left:10px; font-family: "\5FAE\8F6F\96C5\9ED1";}  
 .focus .fcon{ position:relative; width:100%; float:left;  display:none;}
 .focus .fcon img{ display:block; margin: 0 auto;}
-.focus .fbg{bottom:25px; right:40px; position:absolute; height:21px; text-align:center; z-index: 200; }  
+.focus .fbg{bottom:10px; left:40%; position:absolute; height:21px; text-align:center; z-index: 200; }
 .focus .fbg div{margin:4px auto 0;overflow:hidden;zoom:1;height:14px}    
-.focus .D1fBt a{position:relative; display:inline; width:12px; height:12px; border-radius:7px; margin:0 5px;color:#B0B0B0;font:12px/15px "\5B8B\4F53"; text-decoration:none; text-align:center; outline:0; float:left; background:#D9D9D9; }    
-.focus .D1fBt .current,.focus .D1fBt a:hover{background:#fc114a;}    
+.focus .D1fBt a{position:relative; display:inline; width:10px; height:10px; border-radius:7px; margin:0 5px;color:#B0B0B0;font:12px/15px "\5B8B\4F53"; text-decoration:none; text-align:center; outline:0; float:left; background:#D9D9D9; }
+.focus .D1fBt .current,.focus .D1fBt a:hover{background:#fc114a;}
 .focus .D1fBt img{display:none}    
 .focus .D1fBt i{display:none; font-style:normal; }    
 .focus .prev,.focus .next{position:absolute;width:40px;height:74px;background: url(../images/focus_btn.png) no-repeat;}
