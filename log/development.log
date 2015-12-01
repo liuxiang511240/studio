@@ -7665,3 +7665,19 @@ Processing by ContactsController#index as HTML
   Rendered layouts/_header.erb (1.6ms)
   Rendered layouts/_footer.erb (0.0ms)
 Completed 200 OK in 14ms (Views: 13.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts" for 127.0.0.1 at 2015-12-01 22:25:47 +0800
+Processing by ContactsController#index as HTML
+  Rendered contacts/index.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_header.erb (3.4ms)
+  Rendered layouts/_footer.erb (0.1ms)
+Completed 200 OK in 56ms (Views: 54.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts" for 127.0.0.1 at 2015-12-01 22:26:10 +0800
+Processing by ContactsController#index as HTML
+  Rendered contacts/index.html.erb within layouts/application (0.7ms)
+  Rendered layouts/_header.erb (2.3ms)
+  Rendered layouts/_footer.erb (0.1ms)
+Completed 200 OK in 28ms (Views: 27.3ms | ActiveRecord: 0.0ms)
